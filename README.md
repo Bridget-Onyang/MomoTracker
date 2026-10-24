@@ -1,4 +1,4 @@
-# MoMo Tracker (working title)
+# MomoTracker
 
 Understand where your mobile money goes.
 
