@@ -18,9 +18,6 @@ Python (FastAPI) · PostgreSQL · JavaScript · pandas
 We never ask for or store mobile money PINs. Users can delete
 all their data at any time.
 
-## Getting started
-Coming soon.
-
 ## Team
 - [@Bridget-Onyang](https://github.com/Bridget-Onyang)
 - [@Kirabo Faith](https://github.com/KiraboFaith)
