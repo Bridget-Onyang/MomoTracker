@@ -12,7 +12,7 @@ category, and track savings goals.
 - Savings goals
 
 ## Tech stack
-Python (FastAPI) · PostgreSQL · JavaScript · pandas
+Flutter · PostgreSQL
 
 ## Privacy
 We never ask for or store mobile money PINs. Users can delete
